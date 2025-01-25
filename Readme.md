@@ -56,9 +56,9 @@
 <br>
 
 <div align = "center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishisrivastava07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rishi's GitHub stats" height= 250 width=300/> </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishisrivastava07&theme=buefy&hide_border=true&hide=HTML,CSS,SCSS,jupyter%20notebook" alt="Rishi's GitHub Stats" height= 250 width=350/></a> 
-<a href="https://leetcode.com/rishisrivastava78/"><img align="center" src="https://leetcard.jacoblin.cool/rishisrivastava78?theme=light&font=Comic%20Neue&ext=heatmap" alt="Rishi's LeetCode Stats" height= 250 width=350/></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishisrivastava07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rishi's GitHub stats" height= 250 width=250/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishisrivastava07&theme=buefy&hide_border=true&hide=HTML,CSS,SCSS,jupyter%20notebook" alt="Rishi's GitHub Stats" height= 250 width=250/></a> 
+<a href="https://leetcode.com/rishisrivastava78/"><img align="center" src="https://leetcard.jacoblin.cool/rishisrivastava78?theme=light&font=Comic%20Neue&ext=heatmap" alt="Rishi's LeetCode Stats" height= 250 width=250/></a> 
 
 </div>
 <hr>
