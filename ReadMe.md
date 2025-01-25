@@ -1,25 +1,61 @@
-<h1 align="center">Hi 👋🏽, I'm Rishi</h1>
-<h3 align="center"> currently exploring the intersection of art and technology
+<!-- Header Image -->
+<p align="center">
+  <img src="YOUR_HEADER_IMAGE_URL" alt="Header" width="100%">
+</p>
 
-</h3>
+<h1 align="center">Hi, I'm Rishi Srivastava! 👋</h1>
 
-📫 You can reach me at **[_mail_](mailto:rishisrivastava.ju@gmail.com)**<br>
-🌐 My Personal Website **[_link_](https://rishisrivastava07.github.io/Portfolio/)** <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15"> <br>
+<p align="center">
+  <a href="https://github.com/RishiSrivastava" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=RishiSrivastava&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-🔗 I am from **[_JU_](https://jadavpuruniversity.in/)**
+## 🚀 **About Me**
+🎓 Information Technology student at **Jadavpur University**  
+💻 Passionate about **Backend Development & DSA**  
+🏀 Former **Zonal-level Basketball Player**  
+🌱 Currently working on **Multiband Microstrip Patch Antenna Research**  
+📈 Improving **LeetCode and GitHub contributions daily**  
 
-<div align="center">
+---
 
-![](https://komarev.com/ghpvc/?username=rishisrivastava07&color=red)
+## 🛠️ **Tech Stack**  
+**Languages:** C/C++, Java, Python, HTML, CSS, JavaScript  
+**Frameworks:** ReactJS, NodeJS, ExpressJS, Bootstrap, Tailwind  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git/GitHub, Postman, VS Code, Unix Shell, Linux  
 
-<!--| [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/facebook/facebook.svg" alt="Facebook" width="35" height="35">](https://facebook.com/manaspratim.biswas) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/instagram/instagram.svg" alt="Instagram" width="35" height="35">](https://instagram.com/__bokaboka__) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/youtube/youtube.svg" width="35" height="35" alt="Youtube">](https://www.youtube.com/@sanam2405) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/x/x.svg" alt="X" width="35" height="35">](https://twitter.com/sanam2405) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/linkedin/linkedin.svg" alt="LinkedIn" width="35" height="35">](https://linkedin.com/in/manas-pratim-biswas) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-->
+---
 
-</div>
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishiSrivastava&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishisrivastava07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rishi's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishisrivastava07&theme=buefy&hide_border=true&hide=HTML,CSS,SCSS,jupyter%20notebook" alt="Rishi's GitHub Stats" /></a> | <a href="https://leetcode.com/rishisrivastava78/"><img align="center" src="https://leetcard.jacoblin.cool/rishisrivastava78?theme=light&font=Happy%20Monkey&ext=heatmap" alt="Rishi's LeetCode Stats" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiSrivastava&theme=radical" alt="GitHub Streak" />
+</p>
 
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/footer/kolkata.png" alt="KolkataFooter">
-</p> -->
+---
+
+## 🚀 **LeetCode Stats**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RishiSrivastava?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🌍 **Connect With Me**  
+
+📌 **LinkedIn:** [Rishi Srivastava](https://www.linkedin.com/in/RishiSrivastava)  
+🐦 **Twitter/X:** [@your_handle](https://twitter.com/your_handle)  
+📸 **Instagram:** [@your_handle](https://instagram.com/your_handle)  
+💻 **Portfolio:** [your-portfolio-link](https://your-portfolio.com)  
+
+---
+
+<!-- Footer Image -->
+<p align="center">
+  <img src="YOUR_FOOTER_IMAGE_URL" alt="Footer" width="100%">
+</p>
