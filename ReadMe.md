@@ -1,90 +1,25 @@
-<h2 align="left">Hi 👋! My name is Rishi Srivastava and I'm a  final year student of Information Technology from Jadavpur University</h2>
+<h1 align="center">Hi 👋🏽, I'm Rishi</h1>
+<h3 align="center"> currently exploring the intersection of art and technology
 
-###
+</h3>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+📫 You can reach me at **[_mail_](mailto:rishisrivastava.ju@gmail.com)**<br>
+🌐 My Personal Website **[_link_](https://rishisrivastava07.github.io/Portfolio/)** <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15"> <br>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rishisrivastava07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/rishisri07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
+🔗 I am from **[_JU_](https://jadavpuruniversity.in/)**
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31sjpgxaqy5bkwcpimqkw6dovsea">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31sjpgxaqy5bkwcpimqkw6dovsea&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+
+![](https://komarev.com/ghpvc/?username=sanam2405&color=red)
+
+<!--| [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/facebook/facebook.svg" alt="Facebook" width="35" height="35">](https://facebook.com/manaspratim.biswas) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/instagram/instagram.svg" alt="Instagram" width="35" height="35">](https://instagram.com/__bokaboka__) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/youtube/youtube.svg" width="35" height="35" alt="Youtube">](https://www.youtube.com/@sanam2405) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/x/x.svg" alt="X" width="35" height="35">](https://twitter.com/sanam2405) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/linkedin/linkedin.svg" alt="LinkedIn" width="35" height="35">](https://linkedin.com/in/manas-pratim-biswas) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-->
+
 </div>
 
-###
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishisrivastava07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rishi's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishisrivastava07&theme=buefy&hide_border=true&hide=HTML,CSS,SCSS,jupyter%20notebook" alt="Rishi's GitHub Stats" /></a> | <a href="https://leetcode.com/rishisrivastava78/"><img align="center" src="https://leetcard.jacoblin.cool/naxal?theme=light&font=Happy%20Monkey&ext=heatmap" alt="Rishi's LeetCode Stats" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+<!-- <p align="center">
+<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/footer/kolkata.png" alt="KolkataFooter">
+</p> -->
