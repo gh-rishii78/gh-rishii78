@@ -10,7 +10,7 @@
 
 - 🧑‍💻 I’m currently learning **DevOps** 
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://rishisrivastava07.github.io/Portfolio)** 🌐
+- 👨‍💻 All of my projects are available at **[Portfolio](https://rishisrivastava-portfolio.netlify.app/)** 🌐
 
 - 💬 Ask me about **regarding CS and Personal guidance** 
 
